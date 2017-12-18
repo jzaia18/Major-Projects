@@ -1,7 +1,10 @@
 # Major-Projects
-All notable projects I have worked on since entering Stuyvesant in 2014
 
-## Table of contents
+## What This is & Who I am
+This is a growing repository of code that will serve as a sort of portfolio to be seen by potential educational institutions or employers.
+I am Jake Zaia, a Computer Science student from New York City, who is currently studying at Stuyvesant High School.
+
+## Table of Contents
 Projects and languages they are written in sorted by class.
 * IntroCS1
   * Pokemon Battle Simulator [NetLogo]
@@ -12,6 +15,13 @@ Projects and languages they are written in sorted by class.
 * APCS
   * Mezewn [Java]
   * Starui [Processing-Java]
+
+* Software Development
+  * ROCZ-Stories [Python + HTML]
+  * Imajin [Python + HTML]
+
+* Systems Level Programming
+  * Blue-shL [C]
 
 ## How to Navigate
 Depending on the project there are 2 different ways to get to the projects.
@@ -25,4 +35,4 @@ These projects are all other github repositories that have been added as submodu
 
 ## Other notable projects
 In addition to the projects listed here, I have also done work on:
-* [The stuyvesant dojo website](https://dojo.stuycs.org/)
+* [The Stuyvesant CS-Dojo Website](https://dojo.stuycs.org/)
