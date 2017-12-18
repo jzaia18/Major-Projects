@@ -4,3 +4,6 @@
 [submodule "APCS/PokemonBattleSim"]
 	path = APCS/PokemonBattleSim
 	url = https://github.com/rhuiz4/Skull.git
+[submodule "SoftwareDevelopment/ROCZ-Stories"]
+	path = SoftwareDevelopment/ROCZ-Stories
+	url = https://github.com/cynthiacheng1/rocz.git
