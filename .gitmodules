@@ -10,3 +10,6 @@
 [submodule "SystemsLevelProgramming/blue-shL"]
 	path = SystemsLevelProgramming/blue-shL
 	url = https://github.com/TakingTheL/blue-shL.git
+[submodule "SoftwareDevelopment/Imajin"]
+	path = SoftwareDevelopment/Imajin
+	url = https://github.com/jzaia18/Imajin.git
