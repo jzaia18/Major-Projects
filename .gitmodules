@@ -7,3 +7,6 @@
 [submodule "SoftwareDevelopment/ROCZ-Stories"]
 	path = SoftwareDevelopment/ROCZ-Stories
 	url = https://github.com/cynthiacheng1/rocz.git
+[submodule "SystemsLevelProgramming/blue-shL"]
+	path = SystemsLevelProgramming/blue-shL
+	url = https://github.com/TakingTheL/blue-shL.git
