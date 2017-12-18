@@ -13,7 +13,7 @@ Projects and languages they are written in sorted by class.
   * Victray [Python + HTML]
 
 * APCS
-  * Mezewn [Java]
+  * Pokemon Battle Simulator [Java]
   * Starui [Processing-Java]
 
 * Software Development
