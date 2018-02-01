@@ -13,3 +13,6 @@
 [submodule "SoftwareDevelopment/Imajin"]
 	path = SoftwareDevelopment/Imajin
 	url = https://github.com/jzaia18/Imajin.git
+[submodule "SoftwareDevelopment/ZeroishGames"]
+	path = SoftwareDevelopment/ZeroishGames
+	url = https://github.com/arahman5/zeroish.git
