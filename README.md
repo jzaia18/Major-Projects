@@ -19,6 +19,7 @@ Projects and languages they are written in sorted by class.
 * Software Development
   * ROCZ-Stories [Python + HTML]
   * Imajin [Python + HTML]
+  * Zeroish [Python + HTML + JavaScipt]
 
 * Systems Level Programming
   * Blue-shL [C]
