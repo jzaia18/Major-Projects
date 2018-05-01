@@ -22,3 +22,6 @@
 [submodule "SoftwareDevelopment (2017-2018)/ROCZ-Stories"]
 	path = SoftwareDevelopment (2017-2018)/ROCZ-Stories
 	url = https://github.com/cynthiacheng1/rocz.git
+[submodule "SystemsLevelProgramming (2017-2018)/blue-shL"]
+	path = SystemsLevelProgramming (2017-2018)/blue-shL
+	url = https://github.com/TakingTheL/blue-shL.git
