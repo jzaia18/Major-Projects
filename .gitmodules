@@ -13,3 +13,12 @@
 [submodule "APCS (2016-2017)/Pokemon-Battle-Simulator"]
 	path = APCS (2016-2017)/Pokemon-Battle-Simulator
 	url = https://github.com/rhuiz4/Skull.git
+[submodule "SoftwareDevelopment (2017-2018)/Zeroish"]
+	path = SoftwareDevelopment (2017-2018)/Zeroish
+	url = https://github.com/arahman5/zeroish.git
+[submodule "SoftwareDevelopment (2017-2018)/Imajin"]
+	path = SoftwareDevelopment (2017-2018)/Imajin
+	url = https://github.com/jzaia18/Imajin.git
+[submodule "SoftwareDevelopment (2017-2018)/ROCZ-Stories"]
+	path = SoftwareDevelopment (2017-2018)/ROCZ-Stories
+	url = https://github.com/cynthiacheng1/rocz.git
