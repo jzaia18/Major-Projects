@@ -16,3 +16,6 @@
 [submodule "SoftwareDevelopment/ZeroishGames"]
 	path = SoftwareDevelopment/ZeroishGames
 	url = https://github.com/arahman5/zeroish.git
+[submodule "SoftwareDevelopment/Sector_Data"]
+	path = SoftwareDevelopment/Sector_Data
+	url = https://github.com/kkhan01/Sector-Data_Visualization.git
