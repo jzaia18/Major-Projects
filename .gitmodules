@@ -7,3 +7,9 @@
 [submodule "IntroToCS (2015-2016)/Pokemon-Battle-Simulator"]
 	path = IntroToCS (2015-2016)/Pokemon-Battle-Simulator
 	url = http://github.com/jzaia18/Pokemon-Battle-Simulator.git
+[submodule "APCS (2016-2017)/Starui"]
+	path = APCS (2016-2017)/Starui
+	url = https://github.com/jzaia18/Mezewn.git
+[submodule "APCS (2016-2017)/Pokemon-Battle-Simulator"]
+	path = APCS (2016-2017)/Pokemon-Battle-Simulator
+	url = https://github.com/rhuiz4/Skull.git
