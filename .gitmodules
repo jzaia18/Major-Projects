@@ -19,3 +19,6 @@
 [submodule "SoftwareDevelopment/Sector_Data"]
 	path = SoftwareDevelopment/Sector_Data
 	url = https://github.com/kkhan01/Sector-Data_Visualization.git
+[submodule "IntroToCS (2015-2016)/Pokemon-Battle-Simulator"]
+	path = IntroToCS (2015-2016)/Pokemon-Battle-Simulator
+	url = https://github.com/jzaia18/Pokemon-Battle-Simulator.git
