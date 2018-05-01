@@ -1,24 +1,18 @@
 [submodule "APCS/Starui"]
-	path = APCS/Starui
+	path = "APCS (2016-2017)/Starui"
 	url = https://github.com/jzaia18/Mezewn.git
 [submodule "APCS/PokemonBattleSim"]
-	path = APCS/PokemonBattleSim
+	path = "APCS (2016-2017)/PokemonBattleSim"
 	url = https://github.com/rhuiz4/Skull.git
 [submodule "SoftwareDevelopment/ROCZ-Stories"]
-	path = SoftwareDevelopment/ROCZ-Stories
+	path = "SoftwareDevelopment (2017-2018)/ROCZ-Stories"
 	url = https://github.com/cynthiacheng1/rocz.git
 [submodule "SystemsLevelProgramming/blue-shL"]
-	path = SystemsLevelProgramming/blue-shL
+	path = "SystemsLevelProgramming (2017-2018)/blue-shL"
 	url = https://github.com/TakingTheL/blue-shL.git
 [submodule "SoftwareDevelopment/Imajin"]
-	path = SoftwareDevelopment/Imajin
+	path = "SoftwareDevelopment (2017-2018)/Imajin"
 	url = https://github.com/jzaia18/Imajin.git
 [submodule "SoftwareDevelopment/ZeroishGames"]
-	path = SoftwareDevelopment/ZeroishGames
+	path = "SoftwareDevelopment (2017-2018)/ZeroishGames"
 	url = https://github.com/arahman5/zeroish.git
-[submodule "SoftwareDevelopment/Sector_Data"]
-	path = SoftwareDevelopment/Sector_Data
-	url = https://github.com/kkhan01/Sector-Data_Visualization.git
-[submodule "IntroToCS (2015-2016)/Pokemon-Battle-Simulator"]
-	path = IntroToCS (2015-2016)/Pokemon-Battle-Simulator
-	url = https://github.com/jzaia18/Pokemon-Battle-Simulator.git
