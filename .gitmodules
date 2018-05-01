@@ -16,3 +16,9 @@
 [submodule "SoftwareDevelopment/ZeroishGames"]
 	path = "SoftwareDevelopment (2017-2018)/ZeroishGames"
 	url = https://github.com/arahman5/zeroish.git
+[submodule "IntroToCS (2015-2016)/Victray"]
+	path = IntroToCS (2015-2016)/Victray
+	url = http://github.com/jzaia18/Victray.git
+[submodule "SoftwareDevelopment (2017-2018)/Sector-Data"]
+	path = SoftwareDevelopment (2017-2018)/Sector-Data
+	url = https://github.com/kkhan01/Sector-Data_Visualization.git
