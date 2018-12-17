@@ -2,10 +2,13 @@
 
 ## What This is & Who I am
 This is a growing repository of code that will serve as a portfolio to be seen by potential educational institutions or employers.
-I am Jake Zaia, a Computer Science student from New York City, who is currently studying at Stuyvesant High School.
+
+I am Jake Zaia, a Game Design & Development Major at the Rochester Institute of Technology. Formerly, I studied Computer Science at Stuyvesant High School. Most projects in this portfolio are a result of courses I have taken at these 2 schools.
 
 ## Table of Contents
-Projects and languages they are written in sorted by class.
+
+### Stuyvesant High School
+
 * IntroCS1
   * Pokemon Battle Simulator [NetLogo]
 
@@ -19,11 +22,19 @@ Projects and languages they are written in sorted by class.
 * Software Development
   * ROCZ-Stories [Python + HTML]
   * Imajin [Python + HTML]
-  * Zeroish [Python + HTML + JavaScipt]
+  * Zeroish [Python + HTML + JavaScript]
   * Sector_Data [Python + HTML + JavaScript + d3]
 
 * Systems Level Programming
   * Blue-shL [C]
+
+* Computer Graphics
+  * Corundum [Ruby]
+
+### Hackathon Projects
+
+* Tapout [Python + HTML + JavaScript]
+* The Orange [Python + HTML + JavaScript]
 
 ## How to Navigate
 All projects are stored in other Git Repositories and are linked as submodules. To see the code for each individual project from browser, just click on the link and you will be able to see the full project, along with some information explaining it.
