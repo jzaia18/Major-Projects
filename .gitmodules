@@ -34,3 +34,6 @@
 [submodule "HackathonProjects/TheOrange"]
 	path = HackathonProjects/TheOrange
 	url = git@github.com:jzaia18/DandyHacks2018.git
+[submodule "StuyvesantProjects/SoftwareDevelopment (2017-2018)/Jammi"]
+	path = StuyvesantProjects/SoftwareDevelopment (2017-2018)/Jammi
+	url = https://github.com/MarcusNg/Senpai.git

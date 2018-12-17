@@ -24,6 +24,7 @@ I am Jake Zaia, a Game Design & Development Major at the Rochester Institute of 
   * Imajin [Python + HTML]
   * Zeroish [Python + HTML + JavaScript]
   * Sector_Data [Python + HTML + JavaScript + d3]
+  * Jammi [Python + HTML + JavaScript + Firebase]
 
 * Systems Level Programming
   * Blue-shL [C]
