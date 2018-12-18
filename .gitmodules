@@ -13,9 +13,6 @@
 [submodule "APCS (2016-2017)/Pokemon-Battle-Simulator"]
 	path = StuyvesantProjects/APCS (2016-2017)/Pokemon-Battle-Simulator
 	url = https://github.com/rhuiz4/Skull.git
-[submodule "SoftwareDevelopment (2017-2018)/Zeroish"]
-	path = StuyvesantProjects/SoftwareDevelopment (2017-2018)/Zeroish
-	url = https://github.com/arahman5/zeroish.git
 [submodule "SoftwareDevelopment (2017-2018)/Imajin"]
 	path = StuyvesantProjects/SoftwareDevelopment (2017-2018)/Imajin
 	url = https://github.com/jzaia18/Imajin.git
@@ -37,3 +34,6 @@
 [submodule "StuyvesantProjects/SoftwareDevelopment (2017-2018)/Jammi"]
 	path = StuyvesantProjects/SoftwareDevelopment (2017-2018)/Jammi
 	url = https://github.com/MarcusNg/Senpai.git
+[submodule "StuyvesantProjects/SoftwareDevelopment (2017-2018)/Zeroish"]
+	path = StuyvesantProjects/SoftwareDevelopment (2017-2018)/Zeroish
+	url = https://github.com/jzaia18/zeroish.git
