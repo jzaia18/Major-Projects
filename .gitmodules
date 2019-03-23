@@ -37,3 +37,6 @@
 [submodule "StuyvesantProjects/SoftwareDevelopment (2017-2018)/Zeroish"]
 	path = StuyvesantProjects/SoftwareDevelopment (2017-2018)/Zeroish
 	url = https://github.com/jzaia18/zeroish.git
+[submodule "HackathonProjects/Tamagogo"]
+	path = HackathonProjects/Tamagogo
+	url = https://github.com/jennifer4569/tamagogo.git

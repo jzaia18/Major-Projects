@@ -1,3 +1,4 @@
+
 # Major-Projects
 
 ## What This is & Who I am
@@ -34,8 +35,9 @@ I am Jake Zaia, a Game Design & Development Major at the Rochester Institute of 
 
 ### Hackathon Projects
 
-* Tapout [Python + HTML + JavaScript]
-* The Orange [Python + HTML + JavaScript]
+* Tapout [Python + HTML + JavaScript + Firebase]
+* The Orange [Python + HTML + JavaScript + MongoDB]
+* Tamagogo [Python + HTML + Javascript + MongoDB]
 
 ## How to Navigate
 All projects are stored in other Git Repositories and are linked as submodules. To see the code for each individual project from browser, just click on the link and you will be able to see the full project, along with some information explaining it.
