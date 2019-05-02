@@ -33,6 +33,11 @@ I am Jake Zaia, a Game Design & Development Major at the Rochester Institute of 
 * Computer Graphics
   * Corundum [Ruby]
 
+### Rochester Institute of Technology
+
+* Game Development & Algorithmic Problem Solving
+  * Grov [C# + MonoGame]
+
 ### Hackathon Projects
 
 * Tapout [Python + HTML + JavaScript + Firebase]
@@ -45,3 +50,4 @@ All projects are stored in other Git Repositories and are linked as submodules. 
 ## Other notable projects
 In addition to the projects listed here, I have also done work on:
 * [The Stuyvesant CS-Dojo Website](https://dojo.stuycs.org/)
+* [A short blog on using Linux for newbies](https://sosomeoneconvincedyoutouselinux.tumblr.com/)
