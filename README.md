@@ -43,6 +43,7 @@ I am Jake Zaia, a Game Design & Development Major at the Rochester Institute of 
 * Tapout [Python + HTML + JavaScript + Firebase]
 * The Orange [Python + HTML + JavaScript + MongoDB]
 * Tamagogo [Python + HTML + Javascript + MongoDB]
+* The Safety Gauntlet [Python + HTML + Javascript + MongoDB + Arduino]
 
 ## How to Navigate
 All projects are stored in other Git Repositories and are linked as submodules. To see the code for each individual project from browser, just click on the link and you will be able to see the full project, along with some information explaining it.
