@@ -43,3 +43,6 @@
 [submodule "RITProjects/GameDevAndAlgorithmicProblemSolving/Grov"]
 	path = RITProjects/GameDevAndAlgorithmicProblemSolving/Grov
 	url = https://github.com/jzaia18/Grov.git
+[submodule "HackathonProjects/SafetyGauntlet"]
+	path = HackathonProjects/SafetyGauntlet
+	url = https://github.com/jzaia18/SafetyGauntlet.git
