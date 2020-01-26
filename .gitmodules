@@ -49,3 +49,6 @@
 [submodule "HackathonProjects/LegendaryPotato"]
 	path = HackathonProjects/LegendaryPotato
 	url = https://github.com/MRuvinshteyn/legendary-potato.git
+[submodule "HackathonProjects/TheInternetOfThings"]
+	path = HackathonProjects/TheInternetOfThings
+	url = https://github.com/jzaia18/TheInternetOfThings.git
