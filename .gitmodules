@@ -52,3 +52,6 @@
 [submodule "HackathonProjects/TheInternetOfThings"]
 	path = HackathonProjects/TheInternetOfThings
 	url = https://github.com/jzaia18/TheInternetOfThings.git
+[submodule "HackathonProjects/TicTacNull"]
+	path = HackathonProjects/TicTacNull
+	url = https://github.com/jzaia18/TicTacNull.git
