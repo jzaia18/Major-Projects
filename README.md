@@ -4,7 +4,7 @@
 ## What This is & Who I am
 This is a growing repository of code that will serve as a portfolio to be seen by potential educational institutions or employers.
 
-I am Jake Zaia, a Game Design & Development Major at the Rochester Institute of Technology. Formerly, I studied Computer Science at Stuyvesant High School. Most projects in this portfolio are a result of courses I have taken at these 2 schools.
+I am Jake Zaia, a Computer Science Major at the Rochester Institute of Technology. Formerly, I studied Computer Science at Stuyvesant High School. Most projects in this portfolio are a result of courses I have taken at these 2 schools, or are from one of various hackathons I have attended.
 
 ## Table of Contents
 
@@ -44,6 +44,9 @@ I am Jake Zaia, a Game Design & Development Major at the Rochester Institute of 
 * The Orange [Python + HTML + JavaScript + MongoDB]
 * Tamagogo [Python + HTML + Javascript + MongoDB]
 * The Safety Gauntlet [Python + HTML + Javascript + MongoDB + Arduino]
+* Legendary Potato [Python + HTML + JavaScript + MongoDB]
+* The Internet of Things [Python + HTML + JavaScript + MongoDB + Google Cloud Platform]
+* TicTacNull [Whitespace]
 
 ## How to Navigate
 All projects are stored in other Git Repositories and are linked as submodules. To see the code for each individual project from browser, just click on the link and you will be able to see the full project, along with some information explaining it.
