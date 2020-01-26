@@ -46,3 +46,6 @@
 [submodule "HackathonProjects/SafetyGauntlet"]
 	path = HackathonProjects/SafetyGauntlet
 	url = https://github.com/jzaia18/SafetyGauntlet.git
+[submodule "HackathonProjects/LegendaryPotato"]
+	path = HackathonProjects/LegendaryPotato
+	url = https://github.com/MRuvinshteyn/legendary-potato.git
