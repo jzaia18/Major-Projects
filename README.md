@@ -6,6 +6,8 @@ This is a growing repository of code that will serve as a portfolio to be seen b
 
 I am Jake Zaia, a Computer Science Major at the Rochester Institute of Technology. Formerly, I studied Computer Science at Stuyvesant High School. Most projects in this portfolio are a result of courses I have taken at these 2 schools, or are from one of various hackathons I have attended.
 
+Also, check out [my devpost](https://devpost.com/jzaia18) for other projects I've contributed to.
+
 ## Table of Contents
 
 ### Stuyvesant High School
