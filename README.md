@@ -56,4 +56,4 @@ All projects are stored in other Git Repositories and are linked as submodules. 
 ## Other notable projects
 In addition to the projects listed here, I have also done work on:
 * [The Stuyvesant CS-Dojo Website](https://dojo.stuycs.org/)
-* [A short blog on using Linux for newbies](https://sosomeoneconvincedyoutouselinux.tumblr.com/)
+* [The official RITlug website](https://ritlug.com)
