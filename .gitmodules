@@ -55,3 +55,6 @@
 [submodule "HackathonProjects/TicTacNull"]
 	path = HackathonProjects/TicTacNull
 	url = https://github.com/jzaia18/TicTacNull.git
+[submodule "HackathonProjects/Antiviral"]
+	path = HackathonProjects/Antiviral
+	url = git@github.com:jzaia18/AntiviralVoyager.git

@@ -17,10 +17,12 @@ Also, check out [my devpost](https://devpost.com/jzaia18) for other projects I'v
 * Tapout [Python + HTML + JavaScript + Firebase]
 * The Orange [Python + HTML + JavaScript + MongoDB]
 * Tamagogo [Python + HTML + Javascript + MongoDB]
-* The Safety Gauntlet [Python + HTML + Javascript + MongoDB + Arduino]
+* Safety Gauntlet [Python + HTML + Javascript + MongoDB + Arduino]
 * Legendary Potato [Python + HTML + JavaScript + MongoDB]
 * The Internet of Things [Python + HTML + JavaScript + MongoDB + Google Cloud Platform]
 * TicTacNull [Whitespace]
+* Antiviral [Python + HTML + JavaScript + IBM Watson]
+* Pandora's Engine [Python + HTML + JavaScript + MongoDB]
 
 ### Rochester Institute of Technology
 
