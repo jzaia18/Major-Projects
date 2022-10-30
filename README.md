@@ -12,6 +12,21 @@ Also, check out [my devpost](https://devpost.com/jzaia18) for other projects I'v
 
 ## Table of Contents
 
+### Hackathon Projects
+
+* Tapout [Python + HTML + JavaScript + Firebase]
+* The Orange [Python + HTML + JavaScript + MongoDB]
+* Tamagogo [Python + HTML + Javascript + MongoDB]
+* The Safety Gauntlet [Python + HTML + Javascript + MongoDB + Arduino]
+* Legendary Potato [Python + HTML + JavaScript + MongoDB]
+* The Internet of Things [Python + HTML + JavaScript + MongoDB + Google Cloud Platform]
+* TicTacNull [Whitespace]
+
+### Rochester Institute of Technology
+
+* Game Development & Algorithmic Problem Solving
+  * Grov [C# + MonoGame]
+
 ### Stuyvesant High School
 
 * IntroCS1
@@ -36,21 +51,6 @@ Also, check out [my devpost](https://devpost.com/jzaia18) for other projects I'v
 
 * Computer Graphics
   * Corundum [Ruby]
-
-### Rochester Institute of Technology
-
-* Game Development & Algorithmic Problem Solving
-  * Grov [C# + MonoGame]
-
-### Hackathon Projects
-
-* Tapout [Python + HTML + JavaScript + Firebase]
-* The Orange [Python + HTML + JavaScript + MongoDB]
-* Tamagogo [Python + HTML + Javascript + MongoDB]
-* The Safety Gauntlet [Python + HTML + Javascript + MongoDB + Arduino]
-* Legendary Potato [Python + HTML + JavaScript + MongoDB]
-* The Internet of Things [Python + HTML + JavaScript + MongoDB + Google Cloud Platform]
-* TicTacNull [Whitespace]
 
 ## How to Navigate
 All projects are stored in other Git Repositories and are linked as submodules. To see the code for each individual project from browser, just click on the link and you will be able to see the full project, along with some information explaining it.
