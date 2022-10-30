@@ -58,3 +58,6 @@
 [submodule "HackathonProjects/Antiviral"]
 	path = HackathonProjects/Antiviral
 	url = git@github.com:jzaia18/AntiviralVoyager.git
+[submodule "HackathonProjects/PandorasEngine"]
+	path = HackathonProjects/PandorasEngine
+	url = git@github.com:jzaia18/PandoraEngine.git
