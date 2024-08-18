@@ -61,3 +61,12 @@
 [submodule "HackathonProjects/PandorasEngine"]
 	path = HackathonProjects/PandorasEngine
 	url = git@github.com:jzaia18/PandoraEngine.git
+[submodule "CarnegieMellonProjects/ParallelBoruvkasAlgorithm"]
+	path = CarnegieMellonProjects/ParallelBoruvkasAlgorithm
+	url = https://github.com/jzaia18/15618-Final.git
+[submodule "HackathonProjects/Bartleby"]
+	path = HackathonProjects/Bartleby
+	url = https://github.com/jzaia18/Bartleby.git
+[submodule "HackathonProjects/DJSquaredBot"]
+	path = HackathonProjects/DJSquaredBot
+	url = https://github.com/jack-champagne/djsquared-bot.git
