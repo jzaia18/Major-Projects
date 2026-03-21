@@ -2,7 +2,7 @@
 # Major-Projects
 
 ## What This is & Who I am
-I am Jake Zaia, a Quantum Software Developer at [Xanadu](xanadu.ai).
+I am Jake Zaia, a Quantum Software Developer at [Xanadu](https://xanadu.ai).
 Prior to my work here, I was an MSCS student at Carnegie Mellon University and a research intern at the Carnegie Mellon University Software Engineering Institute.
 Before that, I was a CS major at the Rochester Institute of Technology with 3 minors in Quantum Information Science & Technology, Computing Security, and Mathematics.
 And even earlier than that, I studied Computer Science at Stuyvesant High School.
