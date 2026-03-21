@@ -2,12 +2,13 @@
 # Major-Projects
 
 ## What This is & Who I am
-This is a growing repository of code that will serve as a portfolio to be seen by potential educational institutions or employers.
+I am Jake Zaia, a Quantum Software Developer at @XanaduAI.
+Prior to my work here, I was an MSCS student at Carnegie Mellon University and a research intern at the Carnegie Mellon University Software Engineering Institute.
+Before that, I was a CS major at the Rochester Institute of Technology with 3 minors in Quantum Information Science & Technology, Computing Security, and Mathematics.
+And even earlier than that, I studied Computer Science at Stuyvesant High School.
+My academic interests nowadays primarily center around quantum computing.
 
-I am Jake Zaia, a master student of Computer Science at Carnegie Mellon.
-Prior to CMU, I was a CS major at the Rochester Institute of Technology with 3 minors in Quantum Information Science & Technology, Computing Security, and Mathematics.
-My academic interests nowadays primarily center around quantum computing theory.
-Before that, I studied Computer Science at Stuyvesant High School.
+This repository is a growing collection of code that serves as a portfolio to be seen by potential educational institutions or employers.
 
 Most projects in this portfolio are a result of particularly interesting courses I have taken, or are from one of various hackathons I have attended, with some personal projects sprinkled in.
 For more information about me, check out [my official website](https://jzaia.net).
@@ -69,6 +70,7 @@ To see the code for each individual project from browser, just click on the link
 
 ## Other notable projects
 In addition to the projects listed here, I have also done work on:
+* [PennyLane Lightning](https://pennylane.ai/performance)
 * [The official RIT HvZ website](https://hvzrit.club)
 * [The official RITlug website](https://ritlug.com)
 * [The Stuyvesant CS-Dojo Website](https://dojo.stuycs.org/)
